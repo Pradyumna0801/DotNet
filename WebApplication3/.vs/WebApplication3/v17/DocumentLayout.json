@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9561D457-63D1-45FD-AEB6-D460A1EBA184}|WebApplication3\\WebApplication3.vbproj|c:\\users\\hp\\source\\repos\\webapplication3\\webapplication3\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9561D457-63D1-45FD-AEB6-D460A1EBA184}|WebApplication3\\WebApplication3.vbproj|solutionrelative:webapplication3\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9561D457-63D1-45FD-AEB6-D460A1EBA184}|WebApplication3\\WebApplication3.vbproj|c:\\users\\hp\\source\\repos\\webapplication3\\webapplication3\\webform1.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9561D457-63D1-45FD-AEB6-D460A1EBA184}|WebApplication3\\WebApplication3.vbproj|solutionrelative:webapplication3\\webform1.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebApplication3\\WebApplication3\\WebForm1.aspx.vb",
+              "RelativeDocumentMoniker": "WebApplication3\\WebForm1.aspx.vb",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebApplication3\\WebApplication3\\WebForm1.aspx.vb",
+              "RelativeToolTip": "WebApplication3\\WebForm1.aspx.vb",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-09T09:14:22.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WebApplication3\\WebApplication3\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WebApplication3\\WebApplication3\\WebForm1.aspx",
+              "RelativeToolTip": "WebApplication3\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-09T09:14:12.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

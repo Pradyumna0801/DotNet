@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\UNIT2\UNIT2\bin\Debug\net8.0\UNIT2.exe
+C:\Users\HP\source\repos\UNIT2\UNIT2\bin\Debug\net8.0\UNIT2.deps.json
+C:\Users\HP\source\repos\UNIT2\UNIT2\bin\Debug\net8.0\UNIT2.runtimeconfig.json
+C:\Users\HP\source\repos\UNIT2\UNIT2\bin\Debug\net8.0\UNIT2.dll
+C:\Users\HP\source\repos\UNIT2\UNIT2\bin\Debug\net8.0\UNIT2.pdb
+C:\Users\HP\source\repos\UNIT2\UNIT2\obj\Debug\net8.0\UNIT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\UNIT2\UNIT2\obj\Debug\net8.0\UNIT2.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\UNIT2\UNIT2\obj\Debug\net8.0\UNIT2.AssemblyInfo.vb
+C:\Users\HP\source\repos\UNIT2\UNIT2\obj\Debug\net8.0\UNIT2.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\UNIT2\UNIT2\obj\Debug\net8.0\UNIT2.dll
+C:\Users\HP\source\repos\UNIT2\UNIT2\obj\Debug\net8.0\refint\UNIT2.dll
+C:\Users\HP\source\repos\UNIT2\UNIT2\obj\Debug\net8.0\UNIT2.pdb
+C:\Users\HP\source\repos\UNIT2\UNIT2\obj\Debug\net8.0\UNIT2.genruntimeconfig.cache
+C:\Users\HP\source\repos\UNIT2\UNIT2\obj\Debug\net8.0\ref\UNIT2.dll

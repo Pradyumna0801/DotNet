@@ -1,0 +1,32 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site1.master.vb" Inherits="WebApplication6.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <h1>Master Page Test Website</h1>
+            <asp:Menu ID="Menu1" runat="server">
+                <Items>
+                    <asp:MenuItem NavigateUrl="Default.aspx" Text="Home" Value="Home">
+                        <asp:MenuItem Text="File" Value="File"></asp:MenuItem>
+                        <asp:MenuItem Text="Edit" Value="Edit"></asp:MenuItem>
+                    </asp:MenuItem>
+                        <asp:MenuItem Text="Tools" Value="Tools"></asp:MenuItem>
+                        <asp:MenuItem Text="Contact" Value="Contact"></asp:MenuItem>
+                </Items>
+            </asp:Menu>
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
